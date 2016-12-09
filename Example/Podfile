@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DCCLogSystem_Example' do
+  pod 'DCCLogSystem', :path => '../'
+
+  target 'DCCLogSystem_Tests' do
+    inherit! :search_paths
+
+#pod 'FBSnapshotTestCase'
+  end
+end

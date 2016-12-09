@@ -1,0 +1,16 @@
+PODS:
+  - DCCLogSystem (0.1.0)
+
+DEPENDENCIES:
+  - DCCLogSystem (from `../`)
+
+EXTERNAL SOURCES:
+  DCCLogSystem:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DCCLogSystem: cc240f400eb1c869ac11b15187e3dfd24289c733
+
+PODFILE CHECKSUM: 5085a68fe1bb07c8b0378007a3cd68f53862b396
+
+COCOAPODS: 1.1.1
