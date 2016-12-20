@@ -335,6 +335,9 @@
 				LastUpgradeCheck = 0720;
 				ORGANIZATIONNAME = "Deju Liu";
 				TargetAttributes = {
+					6003F589195388D20070C39A = {
+						DevelopmentTeam = TX942DZTXP;
+					};
 					6003F5AD195388D20070C39A = {
 						TestTargetID = 6003F589195388D20070C39A;
 					};
@@ -614,6 +617,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = TX942DZTXP;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DCCLogSystem/DCCLogSystem-Prefix.pch";
 				INFOPLIST_FILE = "DCCLogSystem/DCCLogSystem-Info.plist";
@@ -630,6 +634,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = TX942DZTXP;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DCCLogSystem/DCCLogSystem-Prefix.pch";
 				INFOPLIST_FILE = "DCCLogSystem/DCCLogSystem-Info.plist";

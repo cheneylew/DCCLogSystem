@@ -7,12 +7,13 @@
 //
 
 #import "CCAppDelegate.h"
+#import "CCLogSystem.h"
 
 @implementation CCAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-    // Override point for customization after application launch.
+    [CCLogSystem setupDefaultLogConfigure];
     return YES;
 }
 
